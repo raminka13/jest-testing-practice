@@ -1,0 +1,23 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "Testing unit practice with Jest framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raminka13/jest-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raminka13/jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/raminka13/jest-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
